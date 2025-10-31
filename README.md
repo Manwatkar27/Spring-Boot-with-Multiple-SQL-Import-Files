@@ -72,4 +72,4 @@ Once the application is running, the database will be automatically initialized 
 
 ## 👨‍💻 Author
 
-   Aman Manwatkar
+* **Aman Manwatkar**
